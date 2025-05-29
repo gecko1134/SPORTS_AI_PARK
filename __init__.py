@@ -1,1 +1,1 @@
-touch sportai_suite/__init__.py
+# Init file to make ai_modules a package
